@@ -1,7 +1,10 @@
 # Olá!!! Eu sou Marcel Silva ✌🏽
-<div><img align="right" alt="Marcel-pixelado" src="https://pbs.twimg.com/profile_images/1493934966018920450/TYbvn1EA_400x400.jpg"></div>
 
 **Pretendo ser especialista em dados e por isso estudo SQL**
+  
+
+  <img align="right" alt="Marcel-pixelado" src="https://pbs.twimg.com/profile_images/1493934966018920450/TYbvn1EA_400x400.jpg">
+
 
 *Algumas outras stacks farão parte do meu "arsenal":*
   - Python
